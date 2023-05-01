@@ -1,0 +1,11 @@
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\ServiceContract\bin\Release\ServiceContract.exe.config
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\ServiceContract\bin\Release\ServiceContract.exe
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\ServiceContract\bin\Release\ServiceContract.pdb
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\ServiceContract\bin\Release\AstroMath.dll
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\ServiceContract\bin\Release\AstroMath.pdb
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\ServiceContract\obj\Release\ServiceContract.csproj.AssemblyReference.cache
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\ServiceContract\obj\Release\ServiceContract.csproj.SuggestedBindingRedirects.cache
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\ServiceContract\obj\Release\ServiceContract.csproj.CoreCompileInputs.cache
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\ServiceContract\obj\Release\ServiceContract.csproj.CopyComplete
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\ServiceContract\obj\Release\ServiceContract.exe
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\ServiceContract\obj\Release\ServiceContract.pdb
