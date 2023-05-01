@@ -1,0 +1,14 @@
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Release\TestClientServiceContract.exe.config
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Release\TestClientServiceContract.exe
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Release\TestClientServiceContract.pdb
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Release\ServiceContract.exe
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Release\AstroMath.dll
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Release\ServiceContract.pdb
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Release\ServiceContract.exe.config
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Release\AstroMath.pdb
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\obj\Release\TestClientServiceContract.csproj.AssemblyReference.cache
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\obj\Release\TestClientServiceContract.csproj.SuggestedBindingRedirects.cache
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\obj\Release\TestClientServiceContract.csproj.CoreCompileInputs.cache
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\obj\Release\TestClientServiceContract.csproj.CopyComplete
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\obj\Release\TestClientServiceContract.exe
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\obj\Release\TestClientServiceContract.pdb

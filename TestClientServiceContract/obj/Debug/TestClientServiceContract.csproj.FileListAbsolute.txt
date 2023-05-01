@@ -1,0 +1,14 @@
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Debug\TestClientServiceContract.exe.config
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Debug\TestClientServiceContract.exe
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Debug\TestClientServiceContract.pdb
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\obj\Debug\TestClientServiceContract.csproj.AssemblyReference.cache
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\obj\Debug\TestClientServiceContract.csproj.SuggestedBindingRedirects.cache
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\obj\Debug\TestClientServiceContract.csproj.CoreCompileInputs.cache
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\obj\Debug\TestClientServiceContract.exe
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\obj\Debug\TestClientServiceContract.pdb
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Debug\ServiceContract.exe
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Debug\AstroMath.dll
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Debug\ServiceContract.pdb
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Debug\ServiceContract.exe.config
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\bin\Debug\AstroMath.pdb
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\ServiceContract\TestClientServiceContract\obj\Debug\TestClientServiceContract.csproj.CopyComplete
