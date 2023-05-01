@@ -1,0 +1,6 @@
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\AstroMath\AstroMath\obj\Release\AstroMath.csproj.AssemblyReference.cache
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\AstroMath\AstroMath\obj\Release\AstroMath.csproj.CoreCompileInputs.cache
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\AstroMath\AstroMath\bin\Release\AstroMath.dll
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\AstroMath\AstroMath\bin\Release\AstroMath.pdb
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\AstroMath\AstroMath\obj\Release\AstroMath.dll
+C:\TAFE\DiplomaParTwo\Monday\ComplexDataStructures\AT2\Project\AstroMath\AstroMath\obj\Release\AstroMath.pdb
